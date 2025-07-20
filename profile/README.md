@@ -15,7 +15,7 @@ Techcrafted.dev es más que una simple página web; es mi huella digital en el v
 [![](https://img.shields.io/badge/-Portafolio.TechCrafted.dev-E34F26?style=flat&logo=html5&logoColor=fff&color=27ae60)](https://portafolio.techcrafted.dev)<br>Mi currículo virtual donde me doy a conocer. Aquí muestro mis habilidades, los temas que más me interesan en el desarrollo y un timeline de mi carrera profesional, que abarca más de 20 años de experiencia laboral, de los cuales cinco están dedicados al desarrollo. Estoy en proceso de obtener mi título oficial, lo que hace este proyecto aún más significativo para mí. 
   
 
-## Virtudes de Techcrafted.dev
+## Virtudes
 
 La principal virtud de Techcrafted.dev es su capacidad para mostrar quién soy y lo que aspiro a ser en el mundo del desarrollo. Este sitio es una plataforma integral que destaca mis habilidades y mi evolución profesional. Algunos de los aspectos que considero más valiosos incluyen:
 
