@@ -1,4 +1,5 @@
-# Explorando Mi Trayectoria y Habilidades en Techcrafted.dev
+# TechCrafted.dev
+# Explorando Mi Trayectoria y Habilidades
 
 Bienvenido a Techcrafted.dev, mi espacio digital donde comparto mi viaje y habilidades en el mundo del desarrollo. Aquí encontrarás una colección de proyectos, pensamientos y noticias que reflejan mi pasión y dedicación a la tecnología. Este espacio es tanto un escaparate de mi trabajo como una herramienta para conectar con otros entusiastas de la tecnología.
 
